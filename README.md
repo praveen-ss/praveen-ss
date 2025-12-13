@@ -130,8 +130,8 @@
 
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
-| **LeetCode** | 17 | - |
-| **CodeChef** | 423| 1067 |
+| **LeetCode** | 20 | - |
+| **CodeChef** | 430| 1087 |
 
 
 ##  GitHub Analytics
