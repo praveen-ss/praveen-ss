@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0000ff&text=Praveen%20S&fontColor=ffffff&desc=Full%20stack%20Developer&descAlignY=67&descAlign=32" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=FF8C1A&text=Praveen%20S&desc=Full-Stack%20Developer&descSize=20&descAlign=48&descAlignY=69&section=header&fontColor=FFF7F0" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=+Passionate+Full-Stack+Developer;🚀+Building+Modern+Web+Applications;+DSA+%26+Problem+Solving+Enthusiast;+Always+Learning+New+Technologies" alt="Typing SVG" />
 
@@ -65,62 +65,9 @@
 <table align="center" width="100%">
   <tr>
     <th>Project</th>
-    <th>Description</th>
-    <th>Tech Stack</th>
-    <th>Link</th>
+    <td>Coming Soon..</td>
   </tr>
-
-  <tr>
-    <td><b>ECHOSOUL</b><br><i>Digital Emotional Wellness Platform</i></td>
-    <td>
-      A comprehensive mental health platform designed to help teens and young adults process emotions, reflect, and grow through therapeutic tools and AI-powered support.
-    </td>
-    <td>
-      React.js • Tailwind CSS • MongoDB • Firebase • AI APIs
-    </td>
-    <td>
-      🔗 <a href="https://github.com/sabariyuhendh/echosoul" target="_blank">View →</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>VULNERABILITY SCANNER</b><br><i>Real-time Web Application Security Scanner</i></td>
-    <td>
-      A collaborative project to build a real-time vulnerability scanner for web applications with comprehensive reporting and dashboard features.
-    </td>
-    <td>
-      React.js • Tailwind CSS • GitHub
-    </td>
-    <td>
-      🔗 <a href="https://github.com/sabariyuhendh/vulnerability-scanner" target="_blank">View →</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>DEVCONNECT</b><br><i>Developer Social Network & Collaboration Hub</i></td>
-    <td>
-      A specialized social networking and collaboration platform designed exclusively for software developers, unifying professional networking, knowledge exchange, and peer collaboration.
-    </td>
-    <td>
-      React.js • Node.js • MongoDB • WebSockets
-    </td>
-    <td>
-      🔗 <a href="https://github.com/sabariyuhendh/devconnect" target="_blank">View →</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>EXPENSE TRACKER</b><br><i>Financial Management System</i></td>
-    <td>
-      A comprehensive expense tracker application built with Maven, featuring SQL database integration for efficient financial tracking and money management.
-    </td>
-    <td>
-      Java • Maven • MySQL 
-    </td>
-    <td>
-      🔗 <a href="https://github.com/sabariyuhendh/expense-tracker" target="_blank">View →</a>
-    </td>
-  </tr>
+  
 </table>
 
 
@@ -200,6 +147,6 @@
 ###  Fun Fact
 *"In the vast universe of code, every problem is just a star waiting to be discovered!"*
 
-**⭐ From [sabariyuhendh](https://github.com/sabariyuhendh)**
+**⭐ From [Praveen S](https://github.com/praveen-ss)**
 
 </div>
